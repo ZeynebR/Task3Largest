@@ -1,0 +1,14 @@
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\bin\Debug\net6.0\Task3LargestNumber.exe
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\bin\Debug\net6.0\Task3LargestNumber.deps.json
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\bin\Debug\net6.0\Task3LargestNumber.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\bin\Debug\net6.0\Task3LargestNumber.dll
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\bin\Debug\net6.0\Task3LargestNumber.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.dll
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\refint\Task3LargestNumber.dll
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\Task3LargestNumber.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Desktop\Task3LargestNumber\Task3LargestNumber\obj\Debug\net6.0\ref\Task3LargestNumber.dll
